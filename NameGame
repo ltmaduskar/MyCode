@@ -1,0 +1,37 @@
+var A = function(){
+   
+    var textX = random(0, 200);
+    var textY = random(0, 150);
+    var yourName = " java script";
+
+    fill(77, 255, 0);
+    textSize(10);
+    text(" here is proof that I can program with " + yourName, textX, textY); 
+};
+
+
+println(A);
+A (1);
+A (2);
+A (3);
+A (4);
+    A (5);
+
+var A = function(){
+   
+    var textX = random(0, 400);
+    var textY = random(0, 400);
+    var yourName = " Luke";
+
+    fill(77, 255, 0);
+    textSize(10);
+    text("My name is" + yourName, textX, textY); 
+};
+
+
+println(A);
+A (1);
+A (2);
+A (3);
+A (4);
+    A (5);
